@@ -1,0 +1,87 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	width: 1366px;
+	height: 950px;			
+    background-color:  #E6E6E6;
+}    
+.all{
+	margin: auto;
+	width: 1000px;
+	height: 900px;
+	background-color: white;
+	box-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+.logo{
+	margin-left: 30px;
+	margin-top: 30px;
+}
+.menu{
+	background-color: #4e4d4d;
+	margin-left: 30px;
+	margin-right: 60px;
+	margin-top: 30px;
+}
+.botton{
+	display: inline-block;
+    width: 150px;
+    height: 35px;
+	text-align: center;
+	padding-top: 15px;
+	color: #a3a1a1;
+}
+.botton:hover{
+	background-color: #383838;
+	outline: 1px solid white;
+} 
+.slide_bar{
+	width: 200px;
+	height: 600px;
+	margin-left: 30px;
+	margin-top: 30px;
+	float: left;
+}
+li{
+	list-style-type: none;
+	border: 1px solid #e1e1e1;
+	padding: 10px;
+	color: #a3a1a1;
+}
+li:hover{
+	background-color: #f9f9f9;
+	padding: 10px 10px 10px 20px;
+}
+.bike{
+	margin-left: 30px;
+	margin-top: 30px;
+}
+.text{
+	width: 680px;
+    height: 150px;
+    margin: 15px 60px 0px 250px;
+    padding: 15px 0px 0px 15px;   
+}
+.botom_text{
+	background-color: #e1e1e1;
+	margin-left: 30px;
+	margin-right: 60px;
+	margin-top: 30px;	
+}
+.botton2{
+	display: inline-block;
+    width: 150px;
+    height: 35px;
+	text-align: center;
+	padding-top: 15px;
+	color: black;
+}
+.botton3{
+	display: inline-block;
+    width: 280px;
+    height: 35px;
+	text-align: right;
+	padding-top: 15px;
+	color: black;
+}
